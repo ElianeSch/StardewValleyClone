@@ -421,6 +421,7 @@ GameObject:
   - component: {fileID: 6516768096259468754}
   - component: {fileID: 6516768096259468755}
   - component: {fileID: 6516768096259468752}
+  - component: {fileID: 2234943010227684399}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -481,6 +482,18 @@ SortingGroup:
   m_SortingLayerID: -1515388579
   m_SortingLayer: 1
   m_SortingOrder: 0
+--- !u!114 &2234943010227684399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6516768096259468757}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70af9689e759e4a46b85bfdc0a5b8c0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6516768096288560909
 GameObject:
   m_ObjectHideFlags: 0
